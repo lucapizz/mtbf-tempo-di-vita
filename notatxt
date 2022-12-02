@@ -1,0 +1,15 @@
+
+
+per i mosfet 
+
+usare il 40% della corrente nominale
+usare l'80% della tensione nominale
+
+mantenere a meno di 25 gradi la differenza di temperatura tra juncion e ambiente.
+
+per ogni aumento del delta T di 5°C si dimezza la vita media dichiarta.
+
+
+come rifrimento esiste la MIL-STD-217 che raccoglie gli indici per il
+calcolo del MTBF di moltissimi componenti elettronici.
+
